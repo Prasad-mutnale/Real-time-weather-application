@@ -1,3 +1,3 @@
-# Real-time-weather-appl
-<h2 align="center"><a href="https://tranquil-sable-52c021.netlify.app/">Website Link🔗</a></h2>
+# Real-time-weather-application using React
+<h2 align="center"><a href="https://prasad-mutnale-real-time-weather-app.netlify.app/">Website Link🔗</a></h2>
 
